@@ -1,0 +1,8 @@
+[package]
+name = "Hello-World"
+version = "0.1.0"
+description = "Hello World"
+authors = ["Yan Kuang"]
+edition = "2021"
+
+[dependencies]
