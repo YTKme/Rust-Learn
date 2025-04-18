@@ -7,3 +7,7 @@ members = [
 Write-Your-First-Program = { path = "Essential-Training/Write-Your-First-Program" }
 Primitive-Data-Types ={ path = "Essential-Training/Primitive-Data-Types" }
 Compound-Data-Types = { path = "Essential-Training/Compound-Data-Types" }
+Functions = { path = "Essential-Training/Functions" }
+Ownership = { path = "Essential-Training/Ownership" }
+References = { path = "Essential-Training/References" }
+Modules = { path = "Essential-Training/Modules" }
