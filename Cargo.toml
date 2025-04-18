@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "Essential-Training/*",
+]
+
+[workspace.dependencies]
+Write-Your-First-Program = { path = "Essential-Training/Write-Your-First-Program" }

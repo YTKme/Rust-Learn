@@ -1,7 +1,7 @@
 [package]
-name = "Hello-World"
+name = "Write-Your-First-Program"
 version = "0.1.0"
-description = "Hello World"
+description = "Write Your First Program"
 authors = ["Yan Kuang"]
 edition = "2021"
 
