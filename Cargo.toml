@@ -6,3 +6,4 @@ members = [
 [workspace.dependencies]
 Write-Your-First-Program = { path = "Essential-Training/Write-Your-First-Program" }
 Primitive-Data-Types ={ path = "Essential-Training/Primitive-Data-Types" }
+Compound-Data-Types = { path = "Essential-Training/Compound-Data-Types" }
