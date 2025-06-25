@@ -1,5 +1,5 @@
 use std::io;
-use rand::{self, thread_rng};
+use rand::{self, rng};
 use rand::prelude::*;
 
 fn main() {
@@ -24,6 +24,8 @@ fn main() {
     let random_number = rand::random::<f64>();
     println!("Random Number: {random_number}");
 
-    let number = thread_rng().gen_range(1..11);
+    let number = rng().random_range(1..11);
     println!("Thread RNG: {:?}", number);
+
+    println!("Challenge");
 }
