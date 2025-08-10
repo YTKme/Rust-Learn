@@ -3,6 +3,7 @@ fn main() {
 
     say_hello();
     say_hello();
+    print_a_number(42);
 
     let first_number: u8 = 10;
     let second_number: u8 = 20;
@@ -41,6 +42,11 @@ fn square(number: i32) -> (i32, i32) {
     println!("Square: {number}");
 
     return (number, number * number);
+}
+
+// Unit Data Type
+fn print_a_number(number: i32) -> () {
+    println!("Number: {number}");
 }
 
 // Temperature Conversion
