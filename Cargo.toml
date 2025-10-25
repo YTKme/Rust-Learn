@@ -9,7 +9,7 @@ members = [
 # Rust Essential Training
 Write-Your-First-Program = { path = "Rust-Essential-Training/Write-Your-First-Program" }
 Primitive-Data-Types = { path = "Rust-Essential-Training/Primitive-Data-Types" }
-Compound-Data-Types = { path = "Rust-Essential-Training/Compound-Data-Types" }
+Compound-Data-Types = { path = "Essential-Training/Compound-Data-Types" }
 Functions = { path = "Rust-Essential-Training/Functions" }
 Ownership = { path = "Rust-Essential-Training/Ownership" }
 References = { path = "Rust-Essential-Training/References" }
