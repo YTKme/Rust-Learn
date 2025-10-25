@@ -2,7 +2,6 @@
 resolver = "2"
 members = [
     "Essential-Training/*",
-    "Rust-Essential-Training/*",
 ]
 
 [workspace.dependencies]
