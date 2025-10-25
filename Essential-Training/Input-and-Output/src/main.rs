@@ -1,6 +1,7 @@
 // use std::env;
 use std::{env, fs};
-use std::io::prelude::*;
+// use std::io::Write; // For write to file trait
+// use std::io::prelude::*; // For read and write file
 
 fn main() {
     // Reading From Command Line
@@ -65,5 +66,4 @@ fn main() {
     }
 
     print!("{search_name} di NOT walk on the Moon... YET.");
-
 }
