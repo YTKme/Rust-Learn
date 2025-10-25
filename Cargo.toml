@@ -7,11 +7,11 @@ members = [
 
 [workspace.dependencies]
 # Rust Essential Training
-Write-Your-First-Program = { path = "Rust-Essential-Training/Write-Your-First-Program" }
-Primitive-Data-Types = { path = "Rust-Essential-Training/Primitive-Data-Types" }
+Write-Your-First-Program = { path = "Essential-Training/Write-Your-First-Program" }
+Primitive-Data-Types = { path = "Essential-Training/Primitive-Data-Types" }
 Compound-Data-Types = { path = "Essential-Training/Compound-Data-Types" }
-Functions = { path = "Rust-Essential-Training/Functions" }
-Ownership = { path = "Rust-Essential-Training/Ownership" }
-References = { path = "Rust-Essential-Training/References" }
-Modules = { path = "Rust-Essential-Training/Modules" }
+Functions = { path = "Essential-Training/Functions" }
+Ownership = { path = "Essential-Training/Ownership" }
+References = { path = "Essential-Training/References" }
+Modules = { path = "Essential-Training/Modules" }
 Input-and-Output = { path = "Essential-Training/Input-and-Output" }
