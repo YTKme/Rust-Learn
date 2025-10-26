@@ -14,3 +14,5 @@ Ownership = { path = "Essential-Training/Ownership" }
 References = { path = "Essential-Training/References" }
 Modules = { path = "Essential-Training/Modules" }
 Input-and-Output = { path = "Essential-Training/Input-and-Output" }
+Structs = { path = "Essential-Training/Structs" }
+Generics-Types = { path = "Essential-Training/Generics-Types" }
